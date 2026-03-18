@@ -1,0 +1,6 @@
+# Форматирование и линтеры (dev)
+ruff
+mypy
+black
+pytest
+pytest-asyncio
